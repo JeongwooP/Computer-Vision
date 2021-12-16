@@ -1,4 +1,5 @@
 # Computer_Vision
+Computer Vision Assignments
 
 ## assignment01_01
 lenna.bmp 파일을 회색조(grayscale)로 열어서 전체 이미지 중 [200:400, 200:400] 부분만 20 만큼 밝게 처리하여 lenna_20.bmp로 저장했습니다.
